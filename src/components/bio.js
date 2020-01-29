@@ -54,12 +54,9 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        <strong>Charles & David Innovations</strong> provide important critical investigations and post-cultural critique into contextually situated iterventions in new-media design and educational theory and pedagagy.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+
       </p>
     </div>
   )
